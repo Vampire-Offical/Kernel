@@ -3,7 +3,7 @@ VERSION = 5
 PATCHLEVEL = 17
 SUBLEVEL = 8
 EXTRAVERSION =
-NAME = Superb Owl
+NAME = Main Land
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
